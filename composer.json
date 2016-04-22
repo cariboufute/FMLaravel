@@ -11,12 +11,18 @@
 			"email": "andrewmile@gmail.com"
 		}
 	],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cariboufute/FMAPI"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "andrewmile/fm-hash": "0.1.*",
         "illuminate/support": "5.2.*",
         "illuminate/database": "5.2.*",
-        "andrewmile/fm-api": "0.1.2"
+        "andrewmile/fm-api": "dev-master"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.0"
