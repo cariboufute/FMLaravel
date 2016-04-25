@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cariboufute/FMAPI.git",
-                "reference": "fde683f318e9c319a3f90906939186a99c4d0aa8"
+                "reference": "2a3d8177ac8cccc3010da24803374f1b5881bd29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cariboufute/FMAPI/zipball/fde683f318e9c319a3f90906939186a99c4d0aa8",
-                "reference": "fde683f318e9c319a3f90906939186a99c4d0aa8",
+                "url": "https://api.github.com/repos/cariboufute/FMAPI/zipball/2a3d8177ac8cccc3010da24803374f1b5881bd29",
+                "reference": "2a3d8177ac8cccc3010da24803374f1b5881bd29",
                 "shasum": ""
             },
             "require": {
@@ -43,7 +43,7 @@
             "support": {
                 "source": "https://github.com/cariboufute/FMAPI/tree/master"
             },
-            "time": "2016-04-25 12:41:03"
+            "time": "2016-04-25 13:18:55"
         },
         {
             "name": "andrewmile/fm-hash",
